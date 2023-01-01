@@ -11,11 +11,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <>
-      <div className="newsContainer">
-        <div className="newsGrid">
           <Index />
-        </div>
-      </div>
     </>
   )
 }

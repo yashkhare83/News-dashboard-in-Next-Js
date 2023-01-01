@@ -26,14 +26,13 @@ body{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  gap:16px;
  }
  .newsCard{
-  display: inline-block;
   padding: 8px;
   border-radius: 8px;
-  width: 30%;
+  width: 270px;
   height: 405px;
-  margin-bottom: 16px;
   flex: 0 0 auto;
   -webkit-box-shadow: 10px 10px 60px -28px rgba(184,184,184,1);
 -moz-box-shadow: 10px 10px 60px -28px rgba(184,184,184,1);
